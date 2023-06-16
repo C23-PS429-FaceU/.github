@@ -12,10 +12,10 @@
 👨 (MD) A240DSX1120 – Lalu Rudi Setiawan – University of Mataram - [Active] <br>
 👨 (MD) A240DSX1237 – Mursyidhan Ariefbillah A.M. – University of Mataram - [Active] <br>
 
-**Project Description**
+**Project Description** <br>
 FaceU /’fé.seu/ is an android application integrated with machine learning where this application able to detect problems on facial skin, this application can detect acne, dark spots, wrinkles, and redness on the face, apart from the above problems will be considered as normal conditions.
 
-**Learning path Repo**
+**Learning path Repo** <br>
 | Learning Path                        | Repository Link                                                                           |
 | ------------------------------------ | ----------------------------------------------------------------------------------------- |
 | Mobile Development                   | [FaceU-Android]                                                                           |
